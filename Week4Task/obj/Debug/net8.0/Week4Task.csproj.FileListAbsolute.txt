@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Week4Task\bin\Debug\net8.0\Week4Task.exe
+C:\Users\HP\source\repos\Week4Task\bin\Debug\net8.0\Week4Task.deps.json
+C:\Users\HP\source\repos\Week4Task\bin\Debug\net8.0\Week4Task.runtimeconfig.json
+C:\Users\HP\source\repos\Week4Task\bin\Debug\net8.0\Week4Task.dll
+C:\Users\HP\source\repos\Week4Task\bin\Debug\net8.0\Week4Task.pdb
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.AssemblyInfo.cs
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.dll
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\refint\Week4Task.dll
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.pdb
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\Week4Task.genruntimeconfig.cache
+C:\Users\HP\source\repos\Week4Task\obj\Debug\net8.0\ref\Week4Task.dll

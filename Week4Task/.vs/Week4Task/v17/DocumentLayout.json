@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Week4Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\number3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:number3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\states2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:states2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\number2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:number2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|c:\\users\\hp\\source\\repos\\week4task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB1466-CB24-4636-AD17-F7335D0382A8}|Week4Task.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number3.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\Number3.cs",
+              "RelativeDocumentMoniker": "Number3.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\Number3.cs",
+              "RelativeToolTip": "Number3.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:34:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "States2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\States2.cs",
+              "RelativeDocumentMoniker": "States2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\States2.cs",
+              "RelativeToolTip": "States2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:33:37.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\States.cs",
+              "RelativeDocumentMoniker": "States.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\States.cs",
+              "RelativeToolTip": "States.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:31:08.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Number2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\Number2.cs",
+              "RelativeDocumentMoniker": "Number2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\Number2.cs",
+              "RelativeToolTip": "Number2.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwDQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:53:00.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\Sales.cs",
+              "RelativeDocumentMoniker": "Sales.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\Sales.cs",
+              "RelativeToolTip": "Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:49:47.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:49:04.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwE4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:38:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Week4Task\\State.cs",
+              "RelativeDocumentMoniker": "State.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Week4Task\\State.cs",
+              "RelativeToolTip": "State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:42:32.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
